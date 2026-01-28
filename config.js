@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://soundcloud.com/sabrinacarpenter/tears?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dmhy83afy/video/upload/v1769618026/Sabrina_Carpenter_-_Tears__mp3.pm_h4vr46.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
